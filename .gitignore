@@ -80,3 +80,5 @@ typings/
 .dynamodb/
 
 .history/
+
+css/
