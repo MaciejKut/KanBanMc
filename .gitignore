@@ -82,3 +82,5 @@ typings/
 .history/
 
 css/
+/nbproject/private/
+nbproject
